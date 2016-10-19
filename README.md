@@ -6,4 +6,5 @@ The study explores the elements of physical environment contributes to the perce
 
 **Problem Statement** 
 •	How ‘Streetscore’ a measure of perceived safety relates with physical environment (building heights, street widths, lighting conditions,etc), urban physical activities (biking & walking), demographics (population density, socio-economic factors, etc ) and importantly with actual safety (crime & traffic incidents)?
-The study further compares the streetscores of differ in five important cities (New York, Chicago, Boston, Philadelphia and Detroit) of United States to understand the dynamics of city’s safety.  
+
+•	The study further compares the streetscores of differ in five important cities (New York, Chicago, Boston, Philadelphia and Detroit) of United States to understand the dynamics of city’s safety.  
